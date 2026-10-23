@@ -1,0 +1,6 @@
+{
+  "name": "Genetic Adventure 3D — Misi Menjadi Mendel Master",
+  "description": "Game edukasi sains 3D interaktif tentang genetika dan hukum Mendel untuk SMP oleh Reni Istiningrum, Guru IPA SMPN 1 Pagu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
